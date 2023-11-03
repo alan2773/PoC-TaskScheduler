@@ -1,7 +1,6 @@
 # Universidad Tecnologica Nacional, 
 # Facultad Regional Rosario
-## PoC-TaskScheduler:
-## Tema Elegido: Node-cron
+## PoC-TaskScheduler: Node-cron
 ## Integrantes
 * Alan Romero
 * Octavio Russmann
